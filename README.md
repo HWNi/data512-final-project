@@ -4,7 +4,7 @@
 In this project, we saw an exploratory data analysis to the Yelp data from the Yelp Dataset Challenge by using correlation analysis and visualizations. The research question is about finding correlations between restaurant overall rating and varioius restaurant attributes. My hypotheses was verified that some aspects of restaurant are more likely to determine the overall rating of restaurant than other attributes, but most attributes barely have correlation (i.e. correlation coefficient is between 0.3 and -0.3) with restaurant overall rating. This might be due to the large amount of null values in the dataset and unbalanced data. In genearl, the Yelp rating appears to be normal distributed, but we do need to be cautious when interpreting the restaurant rating because Yelp ratings may suffer from bias due to stereotype or customers' psychological suggestions.
 
 # Getting Started
-You will need Python 3.X and Jupyter notebook installed to reproduce this project by running _hcds-a2-biasn.ipynb_. 
+You will need Python 3.X and Jupyter notebook installed to reproduce this project by running _data512-final-project.ipynb_. 
 To install Python 3, see [download](https://www.python.org/downloads/) and [beginner's guide](https://www.python.org/about/gettingstarted/)
 To install Jupyter Notebook, follow [installation](http://jupyter.readthedocs.io/en/latest/install.html)
 
